@@ -1,6 +1,6 @@
 # Angular Clean Architecture
 
-The project is implementing a clean architecture & ngrx for state management with PrimeNG for native Angular UI components. so that it’s easy to understand and easy to change as the project grows in the future and implement new technologies or packages.
+The project is implementing a clean architecture & NgRx for state management, PrimeNG for native Angular UI components & Fp-Ts for Functional Programming. so that it’s easy to understand and easy to change as the project grows in the future and implement new technologies or packages.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
